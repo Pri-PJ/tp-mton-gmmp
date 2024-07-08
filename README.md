@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Estrategias de Persistencia - TP 2024</h1>
 
 <h3><ins>Instalar y ejecutar la API:</ins></h3>
@@ -54,3 +55,6 @@ Para probar el método de asociación de profesor a curso, en Postman, utilíces
 
 
 
+=======
+# tp-mton-gmmp
+>>>>>>> 82b9f9ab06396d2bdd0fba273bab4a1de8be7677
